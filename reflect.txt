@@ -1,0 +1,14 @@
+	This was my first time to start to make a website from a scratch, and it was not easy for me to complete tasks that were given to me.
+	First, it required me to create input elements that check if a user’s input was valid or invalid. Since I am not good at regular
+expression, I looked a note of ULI101 which I was taking last semester because I remembered the ULI professor who taught me last semester
+mentioned how to check postal code using regular expression. So I saw the lecture note and used it for this assignment. 
+	Second, I used node to find bugs and also I checked if my webpage worked properly by clicking buttons, scrolling down a page and type
+something in forms. The latter one was good to see visible errors. For example, even if npm does not find any errors, when a user clicked
+option bar, the lists show up awkward direction. So there is something by only checking the website through your eyes. On the other hand, npm
+showed me programming errors. For example, it told me that a name of font-family was encapsulated by “”, instead of ‘’ and told me which
+line it caused. In this case, even though I used double quotations, css still worked but as a developer, we should not leave any errors. So
+this is a good method to find errors.
+	Third, I saw many website to come up with idea of design for my website and some of websites were not easy to see. For example, some
+websites had social media links with just a name of it. Instead, using icon and the name of social media is way easier to see and makes people
+more want to go to check their social media. If a webpage has “instagram” or the icon of Instagram as a link, I would want to click the icon.
+Since it is not hard to change, I would tell them that icon makes visitors more interested than word from the user and developer’s perspective.
